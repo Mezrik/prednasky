@@ -37,5 +37,5 @@ varianta s asistencí:
 
 ## Užitečné odkazy
 
-[Sbírka příkladů MUNI](https://www.fi.muni.cz/IB111/sbirka/)
+[Sbírka příkladů MUNI](https://www.fi.muni.cz/IB111/sbirka/) |
 [Stránka Umíme programovat](https://www.umimeprogramovat.cz/)
