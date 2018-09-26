@@ -50,6 +50,7 @@ A=B a zároveň D>5
 (po = se odstraní nově vzniklé duplicity, protože jsme odstranili B, primární klíč)
 
 ![project](https://i.imgur.com/SLVpmey.png)
+<<<<<<< HEAD
 
 <hr>
 
@@ -73,3 +74,5 @@ r - s
 r x s
 
 ![součin](https://i.imgur.com/qE61Tw9.png)
+=======
+>>>>>>> 57f84a84f36bcb03860e80f93f98ca88d71fb2e2
