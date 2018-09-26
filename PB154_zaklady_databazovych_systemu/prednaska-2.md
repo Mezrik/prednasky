@@ -12,7 +12,7 @@
 * *databáze* = množina relací
   - např instructor (ID, name…), student (ID, name…), advisor (ID, name…)
 
-
+<hr>
 * *super/klíč (K)* = množina atributů, která umožňuje poznat libovolnou n-tici v relaci
   - např. {ID} nebo {ID, name}
 * *kandidátský klíč* = minimální množina atributů
