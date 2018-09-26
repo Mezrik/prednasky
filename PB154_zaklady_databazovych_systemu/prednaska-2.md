@@ -13,11 +13,10 @@
   - např instructor (ID, name…), student (ID, name…), advisor (ID, name…)
 
 <hr>
-* *super/klíč (K)* = množina atributů, která umožňuje poznat libovolnou n-tici v relaci
-  - např. {ID} nebo {ID, name}
-* *kandidátský klíč* = minimální množina atributů
-  - např. {ID}
-* vybere se z nich 1, který se stane primárním klíčem
+
+**super/klíč (K)** = množina atributů, která umožňuje poznat libovolnou n-tici v relaci (např. {ID} nebo {ID, name}
+**kandidátský klíč** = minimální množina atributů (např. {ID})
+vybere se z nich 1, který se stane primárním klíčem
 
 ![schéma](https://i.imgur.com/2aamu2Z.png)
 
