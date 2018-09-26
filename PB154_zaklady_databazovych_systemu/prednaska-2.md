@@ -15,6 +15,7 @@
 <hr>
 
 **super/klíč (K)** = množina atributů, která umožňuje poznat libovolnou n-tici v relaci (např. {ID} nebo {ID, name}
+
 **kandidátský klíč** = minimální množina atributů (např. {ID})
 vybere se z nich 1, který se stane primárním klíčem
 
